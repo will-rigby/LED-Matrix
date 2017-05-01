@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\ProgramData\Altium\CircuitMaker {E5AB7E04-3875-439C-93E6-AD868CE95ED0}\Projects\9BC6F76A-A4CD-411B-AEDE-D7B200AA27E9\b335d842-868b-4ee5-a436-f616f10e9348\PCB1.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb1-slotholes.txt|LayerPairs=gtl,gbl

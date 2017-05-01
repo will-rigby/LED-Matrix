@@ -1,0 +1,2 @@
+-Move USART to USART1
+-Fix In-System Programmer Pins
